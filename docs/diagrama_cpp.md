@@ -38,7 +38,7 @@ class SensorTemperatura {
 }
 
 SensorTemperatura --|> Equipamento
-
+```
 ## 4. Justificativa tecnica
 
 Foram identificadas as classes Equipamento e SensorTemperatura, sendo a segunda uma especialização da primeira. A herança aparece na declaração SensorTemperatura : public Equipamento. As operações são ligar(), desligar(), getTag(), estaAtivo() e exibirResumo(), além de atualizarLeitura() e getValorAtual() na classe "filha". O UML está correto porque representa as classes, atributos, métodos, a herança e o polimorfismo do código.
