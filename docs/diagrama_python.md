@@ -42,4 +42,4 @@ Foram identificadas as classes Equipamento, que é a base do sistema, e SensorTe
 
 [Equipamento] EQ-01 - Agitador principal - ativo=True
 [SensorTemperatura] TT-01 - valorAtual=23.5
-[SensorTemperatura] TT-01 - valorAtual=24.2 aqui a saida do terminal, prints ou observacoes da execucao do codigo em `Python`.
+[SensorTemperatura] TT-01 - valorAtual=24.2 
